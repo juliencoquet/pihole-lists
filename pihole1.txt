@@ -1,99 +1,99 @@
-anime-sama.fr
-anime-sama.fun
-anime-sama.me
-anime-sama.pics
-animotaku.fr
-anteikuscan.fr
-archiveofourown.org
-bato.si
-bato.to
-batocomic.net
-batotoo.com
-bfree.site
-bibisco.com
-bibisco.gumroad.com
-booknode.com
-chatsweetie.ai
-chibitranslates.wordpress.com
-fantasygf.ai
-franime.fr
-frmanga.com
-furansujapon.com
-gamma.kinde.com
-hentaiaichat.com
-heyreal.ai
-kmv.city
-littlexgarden.com
-m.kifflire.com
-m.mangatown.com
-m.sexrapide.com
-makiscan.com
-manga-horizon.fr
-manga.niooz.fr
-mangadex.org
-mangadokaze.com
-mangamoins.shaeishu.co
-mangapark.net
-mangapill.com
-mangaplaza.com
-mangaplus.shueisha.co.jp
-mangas-scans.com
-mangataro.net
-mangatoon.mobi
-mangatoto.com
-mangatoto.net
-mangazizi.com
-manhuabuddy.com
-myotakuworld.com
-novamanga.com
-oniichat.com
-playminigames.net
-poki.com
-portalk.ai
-sasunaru-love.tumblr.com
-scanlelvf.com
-scanmanga-fr.my
-scanvf.org
-seinemanga.fr
-sertaoigreja.blogspot.com
-sexkomix2.com
-spicychat.ai
-spicychatapp.com
-starboundscans.com
-talkai.info
-test-griffor.com
-test-purete-boudah.pl
-thotchat.ai
-www.adameteve.fr
-www.aroused.ai
-www.comixtrip.fr
-www.crazygames.com
-www.crunchyroll.com
-www.frmanga.com
-www.gamefront.com
-www.girlfriendly.ai
-www.glenatmangamax.com
-www.gohiai.com
-www.hammerai.com
-www.manga-mana.com
-www.mangafr.org
-www.mangaread.org
-www.miniplay.com
-www.omio.com
-www.palomitacas.com
-www.pika.fr
-www.pixiv.net
-www.ryuenishizawa.com
-www.sanctuary.fr
-www.sbir-consultant.tw
-www.scan-manga.com
-www.scan-vf.net
-www.scanupdates.com
-www.seinemanga.com
-www.toongod.org
-www.viz.com
-www.voyages-d-affaires.com
-www.voyance-medium-voyance.fr
-www.webnovel.com
-yandex.com
-yaoiunderground.com
+0.0.0.0 anime-sama.fr
+0.0.0.0 anime-sama.fun
+0.0.0.0 anime-sama.me
+0.0.0.0 anime-sama.pics
+0.0.0.0 animotaku.fr
+0.0.0.0 anteikuscan.fr
+0.0.0.0 archiveofourown.org
+0.0.0.0 bato.si
+0.0.0.0 bato.to
+0.0.0.0 batocomic.net
+0.0.0.0 batotoo.com
+0.0.0.0 bfree.site
+0.0.0.0 bibisco.com
+0.0.0.0 bibisco.gumroad.com
+0.0.0.0 booknode.com
+0.0.0.0 chatsweetie.ai
+0.0.0.0 chibitranslates.wordpress.com
+0.0.0.0 fantasygf.ai
+0.0.0.0 franime.fr
+0.0.0.0 frmanga.com
+0.0.0.0 furansujapon.com
+0.0.0.0 gamma.kinde.com
+0.0.0.0 hentaiaichat.com
+0.0.0.0 heyreal.ai
+0.0.0.0 kmv.city
+0.0.0.0 littlexgarden.com
+0.0.0.0 m.kifflire.com
+0.0.0.0 m.mangatown.com
+0.0.0.0 m.sexrapide.com
+0.0.0.0 makiscan.com
+0.0.0.0 manga-horizon.fr
+0.0.0.0 manga.niooz.fr
+0.0.0.0 mangadex.org
+0.0.0.0 mangadokaze.com
+0.0.0.0 mangamoins.shaeishu.co
+0.0.0.0 mangapark.net
+0.0.0.0 mangapill.com
+0.0.0.0 mangaplaza.com
+0.0.0.0 mangaplus.shueisha.co.jp
+0.0.0.0 mangas-scans.com
+0.0.0.0 mangataro.net
+0.0.0.0 mangatoon.mobi
+0.0.0.0 mangatoto.com
+0.0.0.0 mangatoto.net
+0.0.0.0 mangazizi.com
+0.0.0.0 manhuabuddy.com
+0.0.0.0 myotakuworld.com
+0.0.0.0 novamanga.com
+0.0.0.0 oniichat.com
+0.0.0.0 playminigames.net
+0.0.0.0 poki.com
+0.0.0.0 portalk.ai
+0.0.0.0 sasunaru-love.tumblr.com
+0.0.0.0 scanlelvf.com
+0.0.0.0 scanmanga-fr.my
+0.0.0.0 scanvf.org
+0.0.0.0 seinemanga.fr
+0.0.0.0 sertaoigreja.blogspot.com
+0.0.0.0 sexkomix2.com
+0.0.0.0 spicychat.ai
+0.0.0.0 spicychatapp.com
+0.0.0.0 starboundscans.com
+0.0.0.0 talkai.info
+0.0.0.0 test-griffor.com
+0.0.0.0 test-purete-boudah.pl
+0.0.0.0 thotchat.ai
+0.0.0.0 www.adameteve.fr
+0.0.0.0 www.aroused.ai
+0.0.0.0 www.comixtrip.fr
+0.0.0.0 www.crazygames.com
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 www.frmanga.com
+0.0.0.0 www.gamefront.com
+0.0.0.0 www.girlfriendly.ai
+0.0.0.0 www.glenatmangamax.com
+0.0.0.0 www.gohiai.com
+0.0.0.0 www.hammerai.com
+0.0.0.0 www.manga-mana.com
+0.0.0.0 www.mangafr.org
+0.0.0.0 www.mangaread.org
+0.0.0.0 www.miniplay.com
+0.0.0.0 www.omio.com
+0.0.0.0 www.palomitacas.com
+0.0.0.0 www.pika.fr
+0.0.0.0 www.pixiv.net
+0.0.0.0 www.ryuenishizawa.com
+0.0.0.0 www.sanctuary.fr
+0.0.0.0 www.sbir-consultant.tw
+0.0.0.0 www.scan-manga.com
+0.0.0.0 www.scan-vf.net
+0.0.0.0 www.scanupdates.com
+0.0.0.0 www.seinemanga.com
+0.0.0.0 www.toongod.org
+0.0.0.0 www.viz.com
+0.0.0.0 www.voyages-d-affaires.com
+0.0.0.0 www.voyance-medium-voyance.fr
+0.0.0.0 www.webnovel.com
+0.0.0.0 yandex.com
+0.0.0.0 yaoiunderground.com
